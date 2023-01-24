@@ -50,5 +50,11 @@
         -webkit-overflow-scrolling: touch;
       }
 
-
+      .emoji-reaction {
+        cursor: pointer;
+        margin-right: 10px;
+      }
       
+      .emoji-reaction .count {
+        margin-left: 5px;
+      }
